@@ -1,0 +1,8 @@
+Here are the Required Dependencies/Libraries:
+
+1. numpy
+2. pandas
+3. matplotlib
+4. scikit_learn
+5. seaborn
+6. plotly
