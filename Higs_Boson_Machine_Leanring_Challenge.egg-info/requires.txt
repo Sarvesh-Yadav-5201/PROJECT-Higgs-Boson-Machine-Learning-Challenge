@@ -4,4 +4,3 @@ matplotlib
 scikit_learn
 seaborn
 plotly
--e .

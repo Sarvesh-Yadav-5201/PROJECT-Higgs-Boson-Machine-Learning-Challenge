@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+Higs_Boson_Machine_Leanring_Challenge.egg-info/PKG-INFO
+Higs_Boson_Machine_Leanring_Challenge.egg-info/SOURCES.txt
+Higs_Boson_Machine_Leanring_Challenge.egg-info/dependency_links.txt
+Higs_Boson_Machine_Leanring_Challenge.egg-info/requires.txt
+Higs_Boson_Machine_Leanring_Challenge.egg-info/top_level.txt
