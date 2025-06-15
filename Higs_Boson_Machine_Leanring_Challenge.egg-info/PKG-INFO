@@ -1,6 +1,16 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: Higs-Boson-Machine-Leanring-Challenge
 Version: 1
 Author: Sarvesh
 Author-email: sarveshkyadav.5201@gmail.com
 License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit_learn
+Requires-Dist: seaborn
+Requires-Dist: plotly
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
